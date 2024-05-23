@@ -1,0 +1,60 @@
+
+
+.custom-shape-divider-top-1716396979 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1716396979 svg {
+  position: relative;
+  display: block;
+  width: calc(159% + 1.3px);
+  height: 400px;
+}
+
+.custom-shape-divider-top-1716396979 .shape-fill {
+  fill: #E774DF;
+}
+
+.fondo{
+  background: #FBD3E9;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #BB377D, #FBD3E9);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #BB377D, #FBD3E9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+}
+
+.img_6{
+  width: 1000px;
+}
+
+.icon{
+  font-size: 50px;
+}
+
+
+/*figura 2*/
+.custom-shape-divider-bottom-1716495165 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1716495165 svg {
+  position: relative;
+  display: block;
+  width: calc(219% + 1.3px);
+  height: 214px;
+  transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1716495165 .shape-fill {
+  fill: #e988f1;
+}
