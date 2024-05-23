@@ -14,11 +14,11 @@ import Register from './Views/Register'
 const router = createBrowserRouter([
     {
         path: '/',
-        element: <Menu/>,
+        element: <Novedades/>,
         children:[
             {
                 index:true,
-                element:<Inicio/>
+                element:<Logear/>
             }
         ]
     },
