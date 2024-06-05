@@ -6,3 +6,4 @@ Frotend en React + vite npm
 
 - Emmanuel 
 - Shelly Nicol
+- itzel

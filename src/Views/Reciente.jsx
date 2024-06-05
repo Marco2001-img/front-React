@@ -29,16 +29,12 @@ export default function Reciente() {
       
       <div className='flex justify-center shadow-lg'>
       <div className="w-1/3  p-4">
-      <i className="bi bi-credit-card icon_t"></i>
-    </div>
-    <div className="w-1/3  p-4">
-    <i className="bi bi-credit-card icon_t"></i> 
-    </div>
-    <div className="w-1/3  p-4">
-    <i className="bi bi-credit-card icon_t"></i>
+     
     </div>
    
+   
       </div>
+      <img src="https://i.ibb.co/NnhmbM6/img-4.png" width="900px" className="mx-auto"/>
       </div>
     </>
   )

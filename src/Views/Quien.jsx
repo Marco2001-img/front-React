@@ -7,8 +7,7 @@ export default function Quien() {
     <>
       <div className='flex'>
       <div className="w-1/3  p-4">
-        <i className="bi bi-credit-card icon_t"></i>
-    
+     <img src="https://i.ibb.co/NW0kJkt/imagen.png" width="250px mx-3"/>
     </div>
     <div className="w-1/2  p-4">
     <div className='bg-pink-500 shadow-md rounded-md mt-5 px-10 py-10 w-full h-full  z-10'>
@@ -22,7 +21,7 @@ export default function Quien() {
 
 
         <div className='bg-pink-200'> 
-      <div className='flex my-36'>
+      <div className='flex my-2'>
       <div className="w-1/3  p-4">
         <h1 className='text-pink-400 text-7xl'>¿Quienes somos?</h1>
     </div>
@@ -33,7 +32,7 @@ export default function Quien() {
     </div>
       </div>
 
-      <i className="bi bi-credit-card icon_t"></i>
+     <img src="https://i.ibb.co/XJqtrTb/img-3.png" alt="img-3" border="0"/>
       </div>
 
       <NavAb/>

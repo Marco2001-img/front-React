@@ -27,6 +27,10 @@ export default function Registro() {
         <p className='text-white'>Envios gratis a partir de compras mayores a $1500 envios a las 24-40hrs</p>
         </div>
     </div>
+    <div>
+
+    </div>
+    <img src="https://i.ibb.co/NnhmbM6/img-4.png" width="900px" className="mx-auto"/>
     </>
   )
 }
